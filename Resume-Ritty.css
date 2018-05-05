@@ -1,0 +1,19 @@
+body
+{background-color:black;
+   border:2px;
+   margin:50px;
+    
+    }
+h5,h3
+{border-bottom:1px solid; 
+}
+table
+{border-collapse:collapse;
+}
+table,th,td
+{
+	border:2px solid;
+ }
+th,td
+{text-align:center;
+}
